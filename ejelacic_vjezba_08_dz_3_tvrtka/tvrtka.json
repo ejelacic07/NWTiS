@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "naziv": "FOLT 1 - Varaždin, Pavlinska 9",
+    "vrstaKuhinje": "MK",
+    "adresa": "20.24.5.2",
+    "mreznaVrata": 8001,
+    "mreznaVrataKraj": 8000,
+    "gpsSirina": 46.30803,
+    "gpsDuzina": 16.34009,
+    "sigurnosniKod": "6b5a4711",
+    "adminKod": "FE98DC76BA54"
+  }
+]
