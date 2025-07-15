@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 23
+Class-Path: libs/ejelacic_vjezba_08_dz_3_lib_konfig-1.5.0.jar libs/ejela
+ cic_vjezba_08_dz_3_lib_podaci-1.3.0.jar libs/gson-2.10.1.jar
+Main-Class: edu.unizg.foi.nwtis.ejelacic.vjezba_08_dz_3.KorisnikKupac
+Created-By: Maven Integration for Eclipse
+
